@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/activity_list"
+        android:title="Activities"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+
+    <item android:id="@+id/start_activity"
+        android:title="Start Sprint"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+
+
+
+</menu>
